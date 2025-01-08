@@ -14,6 +14,7 @@ Nuestro propósito es potenciar el crecimiento de las PYMEs en Argentina, con la
 Nos esforzamos por superar las barreras económicas y técnicas con un enfoque colaborativo, eficiente y orientado a resultados.
 
 Visión
+
 Ser reconocidos como un referente en la provincia de Córdoba y a nivel nacional por nuestra capacidad de integrar tecnologías de vanguardia en el desarrollo de soluciones digitales, ayudando a las empresas a 
 modernizarse y competir en un mercado global en constante cambio.
 
