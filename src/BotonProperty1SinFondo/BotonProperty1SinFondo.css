@@ -1,0 +1,23 @@
+.boton-property-1-sin-fondo,
+.boton-property-1-sin-fondo * {
+  box-sizing: border-box;
+}
+.boton-property-1-sin-fondo {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: var(--secundario, #2dafc1);
+  border-width: 2px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 60px;
+  position: relative;
+}
+.boton-property-1-sin-fondo .texto-botones-instance {
+  flex-shrink: 0 !important;
+  padding: unset !important;
+}

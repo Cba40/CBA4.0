@@ -1,0 +1,102 @@
+.nav-bar-nav-fondo-claro,
+.nav-bar-nav-fondo-claro * {
+  box-sizing: border-box;
+}
+.nav-bar-nav-fondo-claro {
+  display: flex;
+  flex-direction: row;
+  gap: 54px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.nav-bar-nav-fondo-claro .inicio {
+  background: var(
+    --principal,
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #0f2948, #0f2948)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: var(--button-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--button-text-font-size, 18px);
+  font-weight: var(--button-text-font-weight, 500);
+  position: relative;
+}
+.nav-bar-nav-fondo-claro .servicios {
+  background: var(
+    --principal,
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #0f2948, #0f2948)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: var(--button-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--button-text-font-size, 18px);
+  font-weight: var(--button-text-font-weight, 500);
+  position: relative;
+}
+.nav-bar-nav-fondo-claro .nosotros {
+  background: var(
+    --principal,
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #0f2948, #0f2948)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: var(--button-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--button-text-font-size, 18px);
+  font-weight: var(--button-text-font-weight, 500);
+  position: relative;
+}
+.nav-bar-nav-fondo-claro .contacto {
+  background: var(
+    --principal,
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #0f2948, #0f2948)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: var(--button-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--button-text-font-size, 18px);
+  font-weight: var(--button-text-font-weight, 500);
+  position: relative;
+}
+.nav-bar-nav-fondo-claro .redes-sociales {
+  background: var(
+    --principal,
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #0f2948, #0f2948)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: var(--button-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--button-text-font-size, 18px);
+  font-weight: var(--button-text-font-weight, 500);
+  position: relative;
+}

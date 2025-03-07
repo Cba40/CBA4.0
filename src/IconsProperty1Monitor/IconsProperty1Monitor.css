@@ -1,0 +1,44 @@
+.icons-property-1-monitor,
+.icons-property-1-monitor * {
+  box-sizing: border-box;
+}
+.icons-property-1-monitor {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+}
+.icons-property-1-monitor .akar-icons-edit {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: hidden;
+}
+.icons-property-1-monitor .icons {
+  position: absolute;
+  inset: 0;
+}
+.icons-property-1-monitor .akar-icons-desktop-device {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: hidden;
+}
+.icons-property-1-monitor .group-4 {
+  width: 83.33%;
+  height: 66.67%;
+  position: absolute;
+  right: 8.33%;
+  left: 8.33%;
+  bottom: 16.67%;
+  top: 16.67%;
+  overflow: visible;
+}
