@@ -1,0 +1,21 @@
+.texto-botones,
+.texto-botones * {
+  box-sizing: border-box;
+}
+.texto-botones {
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.texto-botones .texto-botones2 {
+  color: var(--title-color, #0a142f);
+  text-align: center;
+  font-family: var(--button-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--button-text-font-size, 18px);
+  font-weight: var(--button-text-font-weight, 500);
+  position: relative;
+}

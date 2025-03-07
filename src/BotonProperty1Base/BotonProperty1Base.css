@@ -1,0 +1,21 @@
+.boton-property-1-base,
+.boton-property-1-base * {
+  box-sizing: border-box;
+}
+.boton-property-1-base {
+  background: var(--terciario, #2486a5);
+  border-radius: 30px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 60px;
+  position: relative;
+}
+.boton-property-1-base .texto-botones-instance {
+  flex-shrink: 0 !important;
+  padding: unset !important;
+}

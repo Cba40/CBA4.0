@@ -1,0 +1,21 @@
+.logo-cba-40-estado-default,
+.logo-cba-40-estado-default * {
+  box-sizing: border-box;
+}
+.logo-cba-40-estado-default {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 80px;
+  position: relative;
+}
+.logo-cba-40-estado-default .logocbasb {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}

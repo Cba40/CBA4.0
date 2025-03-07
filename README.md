@@ -3,15 +3,18 @@ Cba 4.0
 
 
 Descripción General
+
 Bienvenido a Cba 4.0. Somos una empresa dedicada a brindar servicios de asesoría en innovación y tecnologías 4.0, ayudando a las empresas a transformarse digitalmente y a mantenerse competitivas en el mercado actual.
 
 Misión
+
 En Cba 4.0, nuestra misión es transformar ideas en realidades digitales mediante la integración de tecnologías 4.0 y desarrollo web avanzado. Nos comprometemos a ofrecer soluciones innovadoras y personalizadas 
 que impulsen a nuestros clientes hacia el éxito en la era digital, asegurando calidad, eficiencia y resultados excepcionales en cada proyecto., mejorando su eficiencia, productividad y capacidad de innovación.
 Nuestro propósito es potenciar el crecimiento de las PYMEs en Argentina, con las distintas tecnologias adaptados a las necesidades específicas de cada cliente. 
 Nos esforzamos por superar las barreras económicas y técnicas con un enfoque colaborativo, eficiente y orientado a resultados.
 
 Visión
+
 Ser reconocidos como un referente en la provincia de Córdoba y a nivel nacional por nuestra capacidad de integrar tecnologías de vanguardia en el desarrollo de soluciones digitales, ayudando a las empresas a 
 modernizarse y competir en un mercado global en constante cambio.
 

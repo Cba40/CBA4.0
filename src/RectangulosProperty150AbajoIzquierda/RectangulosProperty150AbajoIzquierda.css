@@ -1,0 +1,27 @@
+.rectangulos-property-150-abajo-izquierda,
+.rectangulos-property-150-abajo-izquierda * {
+  box-sizing: border-box;
+}
+.rectangulos-property-150-abajo-izquierda {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.rectangulos-property-150-abajo-izquierda .rectangle-59 {
+  background: var(
+    --principal,
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #0f2948, #0f2948)
+  );
+  border-radius: 0px 0px 50px 0px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 522px;
+  position: relative;
+}
