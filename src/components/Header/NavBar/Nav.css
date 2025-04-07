@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 48px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.nav{
+    color: #0F2948;
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+    position: relative;
+}

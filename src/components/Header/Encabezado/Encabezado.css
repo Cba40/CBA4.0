@@ -1,0 +1,28 @@
+.encabezado{
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    width: 155px;
+    position: relative;
+}
+
+.logo{
+    flex-shrink: 0;
+    width: 42px;
+    height: 40px;
+    position: relative;
+}
+
+.texto_encabezado{
+    color: #0F2948;
+    text-align: left;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+}

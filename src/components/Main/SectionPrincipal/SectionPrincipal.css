@@ -1,0 +1,5 @@
+.Section_Principal{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    place-items: center;
+}
