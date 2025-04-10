@@ -1,0 +1,25 @@
+.Servicios_Servicios{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.Nuestros_Servicios{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    color: #0f2948;  
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 24px;
+}
+
+.Servicios_Cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    height: 480px; 
+    gap: 4px;
+}

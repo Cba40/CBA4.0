@@ -1,0 +1,43 @@
+.Imagen_Card{
+    align-self: stretch;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    padding-bottom: 16px;
+}
+
+.Titulo_Card{
+    color: #0f2948;
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 16px;
+}
+
+.Descripcion_Card{
+    color: #0f2948;
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 8px; 
+}
+
+.Descripcion_Parrafo{
+    color: #0f2948;
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 24px;
+}
+
+.Boton_Card{
+    background: #2486a5;
+    border-radius: 10px;
+    padding: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 256px;
+    height: 40px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+}

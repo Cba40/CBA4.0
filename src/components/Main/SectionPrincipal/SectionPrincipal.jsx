@@ -1,5 +1,4 @@
 import "./SectionPrincipal.css";
-import "./ColumnaIzquierda/ColumnaIzquierda.jsx";
 import ColumnaDerecha from "./ColumnaDerecha/ColumnaDerecha.jsx";
 import ColumnaIzquierda from "./ColumnaIzquierda/ColumnaIzquierda.jsx";
 
